@@ -2,11 +2,11 @@
 
 I love programming, math, and also puns. 
 
+**Website: http://kiraprograms.com**
+
 Youtube Channel: https://www.youtube.com/channel/UClkbLkcyG-qciELtciwpKCA
 
 Dev.to: https://dev.to/i8sumpi
-
-Website: http://kiraprograms.com
 
 ## My best games:
 
