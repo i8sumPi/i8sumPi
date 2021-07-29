@@ -4,7 +4,7 @@ I love programming, math, and also puns.
 
 **Website: http://kiraprograms.com**
 
-Youtube Channel: https://www.youtube.com/channel/UClkbLkcyG-qciELtciwpKCA
+Youtube Channel: https://youtube.com/mathophilia
 
 Dev.to: https://dev.to/i8sumpi
 
