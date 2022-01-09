@@ -1,6 +1,6 @@
 # Hi, I'm Kira
 
-I love programming, math, and also puns. 
+I'm a math and programming enthusiast.
 
 **Website: http://kiraprograms.com**
 
