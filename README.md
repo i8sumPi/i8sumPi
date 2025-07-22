@@ -2,12 +2,6 @@
 
 I'm a math and programming enthusiast.
 
-**Website: http://kiraprograms.com**
-
-Youtube Channel: https://youtube.com/mathophilia
-
-Dev.to: https://dev.to/i8sumpi
-
 ## My best games:
 
 1. **2048 Circle** - A more complex and addictive variation of 2048: http://kiraprograms.com/2048-circle/
